@@ -6,6 +6,9 @@
 # Previews Folders
 **/__Previews/
 
+# History Folders
+**/History/*
+
 # Project Logs
 Project\ Logs*/
 
