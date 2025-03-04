@@ -7,7 +7,7 @@
 **/__Previews/
 
 # History Folders
-**/History/*
+*History\*
 
 # Project Logs
 Project\ Logs*/
@@ -22,6 +22,6 @@ Project\ Outputs*/
 **/*.ldb
 
 *.zip
-*.Zip
+!*.Zip
 
 # End of https://www.gitignore.io/api/altium
