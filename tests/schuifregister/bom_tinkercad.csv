@@ -1,0 +1,11 @@
+﻿Naam,Hoeveelheid,Component
+"U1",1," Arduino Uno R3"
+"Digit1, Digit2, Digit3, Digit4",4,"Anode Zevensegmentendisplay"
+"U6, U2, U3, U4",4," 8-bit schuifregister"
+"R2, R3, R1, R4",4,"220 Ω Weerstand"
+"BAT1",1," 9V-batterij"
+"S1, S2, S3",3," Drukknop"
+"R5",1,"100 kΩ Weerstand"
+"D2",1,"Groen LED"
+"K2",1," Eenpolig SPDT-keerstroomrelais"
+"R6",1,"10 kΩ Weerstand"
