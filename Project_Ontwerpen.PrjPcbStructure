@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=KlokWave.Klok.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=KlokWave.Klok.SchDoc|FileName=KlokWave.Wave.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=KlokWave.Display.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=KlokWave.Display.SchDoc|FileName=KlokWave.Klok.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=KlokWave.Display.SchDoc|FileName=KlokWave.Wave.SchDoc|SheetNumber=2
