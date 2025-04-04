@@ -1,27 +1,31 @@
+# Various Altium files
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.PrjPcbStructure
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
 
-# Created by https://www.gitignore.io/api/altium
-# Edit at https://www.gitignore.io/?templates=altium
+#useless dirs
+Project\ Outputs
+Project\ Logs
+Project Outputs for*
 
-### Altium ###
-# Previews Folders
-**/__Previews/
+#History
+History
 
-# History Folders
-*History\*
+#Exports, but not manual ones
+exports/*
+!exports/manual
 
-# Project Logs
-Project\ Logs*/
-
-# Project Outputs
-Project\ Outputs*/
-
-# Auto-conversion notices
-*.PcbDoc.htm
-
-# Access lock file for dbLib sources
-**/*.ldb
-
-*.zip
-!*.Zip
-
-# End of https://www.gitignore.io/api/altium
+#Python stuff
+scripts/__pycache__/
+*.bak
+*.dwl
+*.dwl2
