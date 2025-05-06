@@ -9,7 +9,7 @@
 | 565R30GASS33            | THT Ceramic Capacitor (Not polarised)           | C3–C6                      | 4       | ATMEGA                        |
 |                         | 100nF                                           | C3, C4                     | 2       | VCC                           |
 |                         | 22pF                                            | C5, C6                     | 2       | Y1 Crystal                    |
-| CL21 Series 0805        | SMD 0805 Ceramic Capacitor                      | C7, C10, C13, C14          | 4       | ALARM                         |
+| CL21 Series 0805        | SMD 0805 Ceramic Capacitor                      | C7, C10, C13, C14          | 4       | ALARM (see pdf)               |
 |                         | 220nF, 100nF, 47nF, 4.7nF                       |                            | 4x1     |                               |
 | TAJR684K016RNJ          | SMD 0805 Tantalum Capacitor                     | C8–C12, C15–C25            | 15      |                               |
 |                         | 100µF / 16V                                     |                            | 4       |                               |
@@ -29,7 +29,7 @@
 |                         | 1kΩ                                              | R4                        | 1       | CTRL_ALARM                    |
 |                         | 330Ω                                             | R3                        | 1       | TEST_LED                      |
 |                         | 220Ω                                             | R46–R49                   | 4       | DISPLAY                       |
-| CR0805-FX-22R6ELF       | SMD 0805 Resistor                               | R7–R45                     | 39      | ALARM                         |
+| CR0805-FX-22R6ELF       | SMD 0805 Resistor                               | R7–R45                     | 39      | ALARM (see pdf)               |
 |                         | Values: 1M, 680k, 270k, 180k, 100k, 68k (×9), 47k (×4), 39k (×2), 33k, 22k (×2), 10k (×3), 6.8k (×6), 4.7k, 2.2k, 1k, 680Ω, 560Ω, 470Ω, 100Ω | 
 | 1825910-6               | THT Tactile Switch SPST-NO                     | SW1–SW4                    | 4        |                               |
 | ATmega328P-PU           | THT AVR Microcontroller 28-pin PDIP            | U1                         | 1        |                               |
