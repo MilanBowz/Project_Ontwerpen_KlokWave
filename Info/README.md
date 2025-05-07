@@ -6,12 +6,12 @@
 | CR-2032/HFN             | THT Coin Cell Battery, 3V, 225 mAh              | B1                         | 1       | DS1307+ VBAT                  |
 | 16SEPC150MD             | THT OS-CON Radial Capacitor (Polarised)         | C1, C2                     | 2       | VCC                           |
 |                         | 220µF                                           | C1, C2                     | 2       |                               |
-| 565R30GASS33            | THT Ceramic Capacitor (Not polarised)           | C3–C6                      | 4       | ATMEGA                        |
+| 565R30GASS33            | THT Ceramic Capacitor (not polarised)           | C3–C6                      | 4       | ATMEGA                        |
 |                         | 100nF                                           | C3, C4                     | 2       | VCC                           |
 |                         | 22pF                                            | C5, C6                     | 2       | Y1 Crystal                    |
-| CL21 Series 0805        | SMD 0805 Ceramic Capacitor                      | C7, C10, C13, C14          | 4       | ALARM (see pdf)               |
+| CL21 Series 0805        | SMD 0805 Ceramic Capacitor (not polarised)      | C7, C10, C13, C14          | 4       | ALARM (see pdf)               |
 |                         | 220nF, 100nF, 47nF, 4.7nF                       |                            | 4x1     |                               |
-| TAJR684K016RNJ          | SMD 0805 Tantalum Capacitor                     | C8–C12, C15–C25            | 15      |                               |
+| TAJR684K016RNJ          | SMD Elco Capacitor (polarised)                  | C8–C12, C15–C25            | 15      |                               |
 |                         | 100µF / 16V                                     |                            | 4       |                               |
 |                         | 47µF / 16V                                      |                            | 6       |                               |
 |                         | 10µF / 16V                                      |                            | 5       |                               |
