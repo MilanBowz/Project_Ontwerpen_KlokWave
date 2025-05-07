@@ -6,6 +6,8 @@
 
 https://www.circuito.io/blog/arduino-uno-pinout/
 
+![ATMEGA pins](Images/ATMEGA_TO_UNO.jpg)
+
 
 ### 8-Bit schuifregister
 
