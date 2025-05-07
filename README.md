@@ -11,13 +11,15 @@ https://www.circuito.io/blog/arduino-uno-pinout/
 
 ### 8-Bit schuifregister
 Gebruikt om aantal I/O pinnen in gebruikt van ATMEGA.
-- hardware getest met 7-segment displays (zie testfolder)
+- hardwaretest met 7-segment display (/Tests)
 
 ![74HC595 pins](Images/Pinout-74HC595-Shift-Register.webp)
 
-### Alarm (klok/ATMEGA output PB2)
+### Alarm (clock/ATMEGA output PB2)
 
 Video tutorial BC547: https://www.youtube.com/watch?v=-o46f7fIX9A
+
+![WAVE ALARM PCB design in Altium](Images/WAVE.PCB.png) 
 
 ## Autodesk / 3D.Design
 
