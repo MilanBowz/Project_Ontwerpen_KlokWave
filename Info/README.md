@@ -11,7 +11,7 @@
 |                         | 22pF                                            | C5, C6                     | 2       | Y1 Crystal                    |
 | CL21 Series 0805        | SMD 0805 Ceramic Capacitor (not polarised)      | C7, C10, C13, C14          | 4       | ALARM (see pdf)               |
 |                         | 220nF, 100nF, 47nF, 4.7nF                       |                            | 4x1     |                               |
-| TAJR684K016RNJ          | SMD Elco Capacitor (polarised)                  | C8–C12, C15–C25            | 15      |                               |
+|  FP-OS-CON-SMT-C6-MFG   | SMD Elco Capacitor (polarised)                  | C8–C12, C15–C25            | 15      |                               |
 |                         | 100µF / 16V                                     |                            | 4       |                               |
 |                         | 47µF / 16V                                      |                            | 6       |                               |
 |                         | 10µF / 16V                                      |                            | 5       |                               |
