@@ -2,7 +2,7 @@
 
 ## Altium
 
-### BOM: ![BOM](Info/README.md)
+### BOM: !(Info/README.md)
 ### PIN mapping Arduino - ATMEGA
 Gebruikt voor logica te programmeren.
 https://www.circuito.io/blog/arduino-uno-pinout/
