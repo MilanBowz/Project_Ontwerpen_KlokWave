@@ -2,7 +2,10 @@
 
 ## Altium
 
-### BOM: (Info/README.md)
+### Extra info: [Info map](Info)
+- BOM
+- [WAVE (alarm) source](Info/WAVE.zeewatersportsynthesizer.pdf)
+
 ### PIN mapping Arduino - ATMEGA
 Gebruikt voor logica te programmeren.
 https://www.circuito.io/blog/arduino-uno-pinout/
