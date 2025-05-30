@@ -168,12 +168,69 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBPHHIDV
 
+[Document8]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Project_Ontwerpen\Design Rule Check - KlokWave.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=KlokWave.doc
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave.REP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Project_Ontwerpen\Gerber\KlokWave_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
